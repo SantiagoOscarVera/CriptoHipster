@@ -49,7 +49,7 @@ function NavBar() {
           <Nav>
             <NavDropdown
               id="nav-dropdown-dark-example"
-              title="Capacitatate"
+              title="Capacitate"
               menuVariant="dark"
             >
               <NavDropdown.Item href="#action/3.1">Articulos sobre criptomonedas</NavDropdown.Item>
